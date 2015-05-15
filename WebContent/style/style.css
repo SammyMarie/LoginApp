@@ -1,0 +1,23 @@
+@CHARSET "ISO-8859-1";
+
+body{
+	background-color: #f63;
+}
+
+#content{
+	background-color: #666;
+}
+
+form{
+	text-align: center;
+	font-size: 1.5em;
+}
+legend {
+	float: both;
+}
+
+#footer{
+	text-align: center;
+	font-size: 0.8em;
+	background-color: #ccc;
+}
